@@ -1,0 +1,27 @@
+[submodule "pack/plugins/start/ctrlp.vim"]
+	path = pack/plugins/start/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "pack/plugins/start/nerdcommenter"]
+	path = pack/plugins/start/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "pack/plugins/start/nerdtree"]
+	path = pack/plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "pack/plugins/start/vim-glsl"]
+	path = pack/plugins/start/vim-glsl
+	url = https://github.com/tikhomirov/vim-glsl.git
+[submodule "pack/plugins/start/vim-surround"]
+	path = pack/plugins/start/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "pack/plugins/start/vim-gitgutter"]
+	path = pack/plugins/start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "pack/plugins/start/vim-toml"]
+	path = pack/plugins/start/vim-toml
+	url = git@github.com:cespare/vim-toml.git
+[submodule "pack/plugins/start/rust.vim"]
+	path = pack/plugins/start/rust.vim
+	url = git@github.com:rust-lang/rust.vim.git
+[submodule "pack/plugins/start/vim-elm-syntax"]
+	path = pack/plugins/start/vim-elm-syntax
+	url = https://github.com/andys8/vim-elm-syntax.git
