@@ -43,7 +43,7 @@ if has('gui_macvim')
 end
 
 if has('gui_win32')
-  set guifont=Consolas:h10
+  set guifont=Cascadia_Mono:h10,Consolas:h10
 end
 
 if executable("ag")
