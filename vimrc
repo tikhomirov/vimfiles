@@ -23,6 +23,8 @@ set laststatus=2
 set statusline=%f%m\ %y\ %l/%L:%c
 set nofixeol
 
+colorscheme macvim
+
 if has("win32")
   set dir=$HOME\vimfiles\tmp\
   set backupdir=$HOME\vimfiles\tmp\
