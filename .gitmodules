@@ -18,10 +18,10 @@
 	url = https://github.com/airblade/vim-gitgutter.git
 [submodule "pack/plugins/start/vim-toml"]
 	path = pack/plugins/start/vim-toml
-	url = git@github.com:cespare/vim-toml.git
+	url = https://github.com/cespare/vim-toml.git
 [submodule "pack/plugins/start/rust.vim"]
 	path = pack/plugins/start/rust.vim
-	url = git@github.com:rust-lang/rust.vim.git
+	url = https://github.com/rust-lang/rust.vim.git
 [submodule "pack/plugins/start/vim-elm-syntax"]
 	path = pack/plugins/start/vim-elm-syntax
 	url = https://github.com/andys8/vim-elm-syntax.git
