@@ -25,3 +25,6 @@
 [submodule "pack/plugins/start/vim-elm-syntax"]
 	path = pack/plugins/start/vim-elm-syntax
 	url = https://github.com/andys8/vim-elm-syntax.git
+[submodule "pack/plugins/start/vim-fsharp"]
+	path = pack/plugins/start/vim-fsharp
+	url = https://github.com/fsharp/vim-fsharp.git
