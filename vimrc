@@ -40,6 +40,11 @@ if has('gui_running')
   set guioptions-=m
 end
 
+if has('gui_gtk3')
+  set guifont=Cascadia\ Mono\ 10
+  set background=dark
+end
+
 if has('gui_macvim')
   set guifont=Menlo:h13
 end
