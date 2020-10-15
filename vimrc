@@ -66,6 +66,8 @@ let g:NERDTreeAutoDeleteBuffer = 1
 
 let g:gitgutter_enabled = 0
 
+let g:vimwiki_list = [{'path': '~/src/wiki/'}]
+
 let mapleader = ','
 map <Leader>l :set list!<CR>
 map <Leader>n :set number!<CR>
