@@ -41,8 +41,7 @@ if has('gui_running')
 end
 
 if has('gui_gtk3')
-  set guifont=Cascadia\ Mono\ 10
-  set background=dark
+  set guifont=Cascadia\ Mono\ 12
 end
 
 if has('gui_macvim')
