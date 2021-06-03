@@ -25,6 +25,3 @@
 [submodule "pack/plugins/start/vim-elm-syntax"]
 	path = pack/plugins/start/vim-elm-syntax
 	url = https://github.com/andys8/vim-elm-syntax.git
-[submodule "pack/plugins/start/vimwiki"]
-	path = pack/plugins/start/vimwiki
-	url = https://github.com/vimwiki/vimwiki.git
